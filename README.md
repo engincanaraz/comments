@@ -35,10 +35,6 @@ Bu proje, e-ticaret siteleri, blog platformları veya herhangi bir web uygulamas
    ```
 2. İndex.html dosyasını bir web tarayıcısında açın.
 
-## 📱 Ekran Görüntüleri
-
-[Buraya projenizin ekran görüntülerini ekleyebilirsiniz]
-
 ## 🎯 Özellikler Detayı
 
 - **Yorum Sistemi**
